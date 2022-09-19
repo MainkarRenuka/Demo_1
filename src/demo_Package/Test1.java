@@ -82,7 +82,7 @@ public class Test1
 			}
 		}
 		
-		
+		System.out.println("Greater nuber done successfully");
 		
 		
 		
