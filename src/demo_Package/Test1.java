@@ -82,7 +82,7 @@ public class Test1
 			}
 		}
 		
-		System.out.println("Greater nuber done successfully");
+		System.out.println("Greater number value done successfully");
 		
 		
 		
